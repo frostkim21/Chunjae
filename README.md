@@ -15,7 +15,7 @@ Spring Boot로 게시판 만들기
 # technology Used
 1. Spring Boot
 2. Spring MVC - 웹
-3. Thymeleaf - 웹과 고나려뇐 템플릿 엔진
+3. Thymeleaf - 웹 관련 템플릿 엔진
 4. Spring JDBC
 5. MSSQL
 6. Lombok (dto)
