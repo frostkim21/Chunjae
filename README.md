@@ -1,7 +1,7 @@
 # Chunjae
 Spring Boot로 게시판 만들기
 
-#Page Flow
+# Page Flow
 1. 회원가입
 2. 로그인 (HttpSession)
 3. 글쓰기
